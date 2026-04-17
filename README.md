@@ -7,7 +7,7 @@ Personal Claude Code plugin marketplace for [@awaisali88](https://github.com/awa
 Register the marketplace once per device:
 
 ```
-claude plugin marketplace add github:awaisali88/claude-marketplace
+claude plugin marketplace add awaisali88/claude-marketplace
 ```
 
 Then install plugins:
