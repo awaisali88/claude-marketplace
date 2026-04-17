@@ -1,0 +1,16 @@
+{
+  "name": "claude-marketplace",
+  "owner": { "name": "awaisali88" },
+  "plugins": [
+    {
+      "name": "aria-trading",
+      "source": {
+        "source": "github",
+        "repo": "awaisali88/aria-trading-skill"
+      },
+      "description": "Aria trading skill",
+      "version": "1.0.0",
+      "author": { "name": "awaisali88" }
+    }
+  ]
+}
