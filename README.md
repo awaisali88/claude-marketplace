@@ -13,7 +13,7 @@ claude plugin marketplace add awaisali88/claude-marketplace
 Then install plugins:
 
 ```
-claude plugin install aria-trading@claude-marketplace
+claude plugin install aria-trading@awaisali88
 ```
 
 ## Plugins
